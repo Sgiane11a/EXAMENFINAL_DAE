@@ -8,21 +8,21 @@ const Hero = () => {
             </div>
             <div className="carousel-inner">
                 <div className="carousel-item active">
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToyCHqxLyOXORwihqmRAqf33Ht7CZZt1_F5A&s" className="d-block w-100" alt="..." />
+                    <img src="https://www.shutterstock.com/image-vector/wireless-ear-headphones-ad-3d-600nw-2128379057.jpg" className="d-block w-100" alt="..." />
                     <div className="carousel-caption d-none d-md-block">
                         <h5>Primera Imagen</h5>
                         <p>esta es la descripción de la primera imagen</p>
                     </div>
                 </div>
                 <div className="carousel-item">
-                    <img src="https://blog.jumboprinters.com/wp-content/uploads/2021/09/consejos-imagenes.jpg" className="d-block w-100" alt="..." />
+                    <img src="https://academia.nubimetrics.com/hubfs/productos-tecnologicos-2.jpg" className="d-block w-100" alt="..." />
                     <div className="carousel-caption d-none d-md-block">
                         <h5>Segunda Imagen</h5>
                         <p>Esta es la descripcion de la segunda imagen</p>
                     </div>
                 </div>
                 <div className="carousel-item">
-                    <img src="https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/9db5/live/48fd9010-c1c1-11ee-9519-97453607d43e.jpg.webp" className="d-block w-100" alt="..." />
+                    <img src="https://media.cnn.com/api/v1/images/stellar/prod/cnne-f5a0b291-140108031947-neptune-pine-smart-watch-story-top.jpg?c=16x9&q=h_833,w_1480,c_fill" className="d-block w-100" alt="..." />
                     <div className="carousel-caption d-none d-md-block">
                         <h5>Tercera imagen</h5>
                         <p>Esta es la descripcion de la tercera imagen</p>

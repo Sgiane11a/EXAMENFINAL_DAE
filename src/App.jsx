@@ -5,6 +5,7 @@ import { Route, Routes } from 'react-router-dom'
 import { Listado } from './pages/Listado'
 import { Home } from './pages/Home'
 import { Contactanos } from './pages/Contactanos'
+import Footer from './components/Footer'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -18,6 +19,8 @@ function App() {
       <Route path="/listado" element={<Listado />} />
       <Route path='/contactanos' element={<Contactanos />} />
     </Routes>
+
+    <Footer />
     </>
   )
 }
